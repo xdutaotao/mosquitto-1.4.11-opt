@@ -65,7 +65,7 @@ WITH_SYS_TREE:=yes
 #WITH_UUID:=yes
 
 # Build with websockets support on the broker.
-WITH_WEBSOCKETS:=yes
+WITH_WEBSOCKETS:=no
 
 # Use elliptic keys in broker
 WITH_EC:=yes
